@@ -1,4 +1,4 @@
-# 💫 Gautham Srinivasan:
+# 💫 Gautham Srinivasan
 I'm a passionate Full Stack Developer dedicated to crafting seamless and dynamic web applications. My journey in tech has equipped me with a robust skill set and a drive to build efficient, scalable solutions. Check out my repositories to see my work in action and let's collaborate on something amazing! 🚀
 
 
